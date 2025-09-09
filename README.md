@@ -20,6 +20,7 @@
 <img width="476" height="101" alt="Снимок экрана 2025-09-09 в 20 43 41" src="https://github.com/user-attachments/assets/27e30fce-50b4-40e9-8a95-086c56bbc2f1" />
 
 <img width="350" height="131" alt="Снимок экрана 2025-09-09 в 20 42 41" src="https://github.com/user-attachments/assets/778d2603-e45d-456d-af33-d890864b3d47" />
+
 <img width="351" height="204" alt="Снимок экрана 2025-09-09 в 20 43 12" src="https://github.com/user-attachments/assets/3b8da9e9-8dbb-4f25-b7ac-1461dfa7f4f1" />
 
 
